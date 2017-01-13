@@ -1,0 +1,14 @@
+data/Inc/stm32f0xx_hal_conf.h.i
+data/Src/init_main/dma_ctrl.c.i
+data/Src/one_wire/onewire.h.i
+data/Src/init_main/init_main.c.i
+data/Src/main.c.i
+data/Src/init_main/init_main.h.i
+data/Src/stm32f0xx_hal_msp.c.i
+data/Src/init_main/dma_ctrl.h.i
+data/Src/stm32f0xx_it.c.i
+data/Src/one_wire/onewire.c.i
+data/Src/stm32f0xx_hal_timebase_TIM.c.i
+data/Inc/stm32f0xx_it.h.i
+data/Src/main.rar.i
+data/Inc/mxconstants.h.i
